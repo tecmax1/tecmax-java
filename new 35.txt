@@ -1,0 +1,30 @@
+Identity Access Management --IAM is nothing but authentication and authorization
+it is a wed service 
+
+json-javascript object notation is imp to learn
+
+creating iam
+
+IAM-policies(set of documents n permissions)
+click on user-- add user-next-attach policy s3 full access --create--console access--custom password
+create a group
+give ec2 full access--after creating group goto permissions attach policy
+goto dashboard and copy link
+
+to reset password -user-security credentials-console passwrd enabled--manage password
+
+create new policy-service-actions-resources
+
+aws command line interface
+
+if we give programettic access then only secret key and private key will be coming
+
+crete a role
+
+click on role-create role-ec2-
+
+enable mfa--user --security credentials-manage mfa
+
+aws configure
+craete a bucket
+aws s3 mb se://deepquest
